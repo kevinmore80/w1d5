@@ -1,0 +1,14 @@
+{
+  "name": "kmwrite",
+  "version": "1.0.0",
+  "description": "Excerise to create package.json",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Kevin More",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^2.1.0"
+  }
+}
